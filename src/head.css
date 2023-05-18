@@ -1,0 +1,48 @@
+.head{
+  background-color: #21222A;
+
+  width: 550px;
+  height: 91px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 30px;
+  color : white;
+  border-radius: 20px 20px 0px 0px;
+}
+.head-w{
+  background-color: #fcfcfc;
+
+  width: 550px;
+  height: 91px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 30px;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.head__btn-sd{
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border-radius:50%;
+  background-color: #fff;
+  margin: 2px;
+  border: none;
+  
+}
+
+
+.head__btn-w{
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border-radius:50%;
+  background-color: #21222A;
+  margin: 2px;
+}
